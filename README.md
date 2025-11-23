@@ -5,6 +5,7 @@ This app allows users to discover recipes from around the world, view detailed c
 
 ---
 
+APK: Go to the folder android > app > build > outputs > apk > release > apk-release.apk
 ## 🚀 Features
 
 * 🔍 **Search Recipes:** Find meals by name or main ingredient.
